@@ -1,2 +1,3 @@
-; El archivo de R       :<
-aaaaa
+attach(PRECIOS_BILBAO)
+preciosB = BILBAO
+mean(preciosB)
